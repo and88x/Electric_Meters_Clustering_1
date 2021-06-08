@@ -2,7 +2,7 @@ Electric Energy Meters Clustering
 ================
 Andres Fernando Garcia
 2021-06-05
-
+<!---
 <style>
 .column-left{
   float: left;
@@ -25,12 +25,12 @@ Andres Fernando Garcia
   text-align: center;
 }
 </style>
+-->
 
-<div class="column-right">
-
-![](./imgs/smart_meter.jpg)
-
-</div>
+<img src="./imgs/smart_meter.jpg"
+     style="float: right; text-align: center; margin-right: 10px;" 
+     height="40%" 
+     width="40%"/>
 
 ## Project details
 
